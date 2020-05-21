@@ -1,2 +1,2 @@
-# KetefHinnomSilverScrolls.gihub.io
+# KetefHinnomSilverScrolls.github.io
 Information about the Ketef Hinnom Silver Scrolls
